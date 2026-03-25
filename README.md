@@ -31,9 +31,3 @@ trivy image bad-app
 trivy image good-app
 ```
 ```
-
-Push it:
-```
-git add README.md
-git commit -m "Add README"
-git push
